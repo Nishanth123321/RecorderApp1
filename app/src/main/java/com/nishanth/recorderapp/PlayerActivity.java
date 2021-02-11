@@ -1,4 +1,4 @@
-package com.nishanth.musiczone;
+package com.nishanth.recorderapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
